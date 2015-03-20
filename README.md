@@ -8,4 +8,4 @@ Sinatra is different from Rails. They’re both frameworks for helping you to wr
 atm.rb - Imagine an ATM that holds $5, $10 and 20$ notes. Write a function that returns as few notes as possible. 
 This exercise utilized pair programming and test driven development (TDD). 
 
-These tutorials were done at the Rails Girls Next Sydney event in March 2015. 
+These tutorials were done at the Rails Girls Next event held in Sydney in March 2015. 
